@@ -16,8 +16,11 @@ Fikstürü Dosyaya Yazma: Oluşturulan fikstürü fikstur.txt dosyasına yazıyo
 Örnek Çıktı:
 --- 1. Hafta ---
 GALATASARAY A.Ş. vs FENERBAHÇE A.Ş.
+
 REEDER SAMSUNSPOR vs BEŞİKTAŞ A.Ş.
+
 İKAS EYÜPSPOR vs GÖZTEPE A.Ş.
+
 RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ vs ÇAYKUR RİZESPOR A.Ş.
 TRABZONSPOR A.Ş. vs GAZİANTEP FUTBOL KULÜBÜ A.Ş.
 KASIMPAŞA A.Ş. vs COREDON ALANYASPOR
