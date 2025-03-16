@@ -7,14 +7,12 @@ main.c: Fikstür oluşturma kodlarını içeren C programı.
 takimlar.txt: Süper Lig'deki takımların isimlerini içeren dosya. Her satırda bir takım adı yer alır (toplam 19 takım).
 fikstur.txt: Oluşturulan fikstürü içeren dosya."main.c" dosyası çalıştılınca oluşur. Her hafta için maç eşleşmeleri ve o hafta maç yapmayan takım bilgisi yer alır.
 
-           ***********************************************************************************************************************
   
 Takım İsimlerini Okuma: fgets fonksiyonunu kullanarak takım isimlerini dosyadan okuyup takimlar dizisine kaydediyoruz.
 Rastgele Fikstür Oluşturma: Takım isimlerini rastgele karıştırarak fikstürü oluşturuyoruz. Her hafta bir takımın maç yapmamasını sağlıyoruz.
 Fikstürü Dosyaya Yazma: Oluşturulan fikstürü fikstur.txt dosyasına yazıyoruz.
 
 
-           ***********************************************************************************************************************
 Örnek Çıktı:
 --- 1. Hafta ---
 GALATASARAY A.Ş. vs FENERBAHÇE A.Ş.
